@@ -9,7 +9,7 @@ learning algorithm from Robert Sedgewick
 4. improvements
 5. applications
 
--- Subtext of the lecture --
+## Subtext of the lecture 
 - Steps to developing a usable algorithm.
   - Model the problem.
   - Find an algorithm to solve it.
