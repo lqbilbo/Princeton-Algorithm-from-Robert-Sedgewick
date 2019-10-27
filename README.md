@@ -53,3 +53,8 @@ Resizing-array implementation.
   - void enqueue(String item)
   - String dequeue()
   - boolean isEmpty()
+  
+- bag
+  - void add(Item x)
+  - int size()
+  - Iterable<Item> iterator()
