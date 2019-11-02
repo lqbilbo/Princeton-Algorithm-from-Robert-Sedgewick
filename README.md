@@ -132,3 +132,31 @@ ________________________________
 1.Empirical analysis.
 2.Mathematical analysis.
 3.Scientific method.
+
+# Lesson 4th Elementary Sorts
+
+## selection sort
+
+- In iteration i, find index min of smallest remaining entry.
+- Swap a[i] and a[min]
+
+## insertion sort
+
+- In iteration i, swap a[i] with each larger entry to its left.
+
+## shuffling
+- Generate a random real number for each array entry.
+- Sort the array.
+
+## convex hull
+The convet hull of a set of N points is the smallest perimeter fence enclosing the points.
+
+- mechanical algorithm.
+Hammer nails perpendicular to plane; stretch elastic rubber band around points.
+
+- application: motion planning.
+Robot motion planning. Find shortest path in the plane from s to t that avoids a polygonal obstacle.
+
+- application: farthest pair.
+Civen N points in the plane, find a pair of points with the largest Euclidean distance between them.
+ 
