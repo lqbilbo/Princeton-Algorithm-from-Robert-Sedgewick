@@ -159,4 +159,36 @@ Robot motion planning. Find shortest path in the plane from s to t that avoids a
 
 - application: farthest pair.
 Civen N points in the plane, find a pair of points with the largest Euclidean distance between them.
- 
+
+# Lesson 5th mergesort
+
+## mergesort
+
+Basic plan.
+- Divide array into two havles.
+- Recursively sort each half.
+- Merge two halves.
+
+## bottom-up mergesort
+
+Basic plan.
+- Pass through array, merging subarrays of size 1.
+- Repeat for subarrays of size 2, 4, 8, 16..
+
+## sorting complexity
+
+Computational complexity. Framework to study efficientcy of algorithms
+for solving a particular problem X.
+
+Lower bound may not hold if the algorithm has information about:
+- The initial order of the input.
+- The distribution of key values.
+- The representation of the keys.
+
+## stability
+
+- insertion sort is stable.
+- selection sort is not stable.
+- shell sort is not stable.
+- merge sort is stable.
+
