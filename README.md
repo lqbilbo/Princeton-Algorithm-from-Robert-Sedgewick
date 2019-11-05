@@ -192,3 +192,28 @@ Lower bound may not hold if the algorithm has information about:
 - shell sort is not stable.
 - merge sort is stable.
 
+# Lesson 6th quicksort
+
+## quicksort
+
+Basic plan.
+- Shuffle the array.        Shuffling is needed for performance guarantee.
+- Partition so that, for some j
+ - entry a[j] is in place
+ - no larger entry to the left of j
+ - no smaller entry to the right of j
+- Sort each piece recursively.
+
+### performance characteristics
+
+Worst case. Number of compares is quadratic
+
+Average case. Number of compares is ~ 1.39 NlgN.
+- 39% more compares than mergesort.
+- But faster than mergesort in practice because of less data movement.
+
+Random shuffle
+- Probabilistic guarantee against worst case.
+- Basis for math model that can be validated with experiments.
+
+
