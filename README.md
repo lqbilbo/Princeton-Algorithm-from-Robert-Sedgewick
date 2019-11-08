@@ -216,4 +216,19 @@ Random shuffle
 - Probabilistic guarantee against worst case.
 - Basis for math model that can be validated with experiments.
 
+### Quicksort properties
+
+Proposition. Quicksort is an in-place sorting algorithm.
+- Partitioning: constant extra space.
+- Depth of recursion: logarithmic extra space (with high probability)
+
+Proposition. Quicksort is not ~stable~.
+
+Median of sample.
+
+- Best choice of pivot them = median
+- Estimate true median by taking median of sample.
+- Median-of-3(random) items.
+
+## 
 
