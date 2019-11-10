@@ -230,5 +230,74 @@ Median of sample.
 - Estimate true median by taking median of sample.
 - Median-of-3(random) items.
 
-## 
+### Quicksort selection
 
+Goal. Given an array of N items, find the top k largest
+Ex. Min(k=0), max(k=N-1), median(k=N/2)
+
+Applications.
+- Order statistics.
+- Find the 'top k'.
+
+Repeat in one subarray, depending on j; finished when j equals k.
+
+Proposition. Compare-based selection algorithm whose worst-case running time is linear.
+
+### Quicksort duplicate keys
+
+Mistake. Put all items equal to the partitioning item on one side.
+Consequence. ~ 1/2 N^2 compares when all keys equal.
+
+Recommended. Stop scans on itmes equal to the partitioning item.
+Consequence. ~NlgN compares when all keys equal.
+
+### 3-way partitioning
+
+- let v be partiitnoning item a[lo]
+- Scan i from left to right.
+  - (a[i] < v): exchange a[lt] with a[i]: increment both lt and i
+  - (A[i] > v): exchange a[gt] with a[i]: decrement gt
+  - (a[i] == v): increment i 
+  
+### system sorts
+
+- Java
+Arrays.sort()
+
+- C
+qsort()
+
+### which algorithm to use?
+
+Internal sorts:
+- Insertion sort, selection sort, bubble sort, shaker sort.
+- Quick sort, merge sort, heap sort, sample sort, shell sort.
+- Solitaire sort, red-black sort, splay sort, Yaroslavskiy sort, p-sort,...
+
+External sorts. Poly-phase merge sort, cascade-merge, oscillating sort.
+
+# Lesson 7th Priority queues
+
+## API and elementary implementations
+
+Collections.. Insert and delete items. Which item to delete?
+
+Stack. Remove the item most recently added.
+Queue. Remove the item least recently added.
+Randomized queue. Remove a random item.
+Priority queue. Remove the largest(or smallest) item.
+
+### API.
+Requirement。 Generic items are Comparable.
+
+```
+MaxPQ()
+
+void insert(Key v)
+
+Key delMax()
+
+boolean isEmpty()
+```
+![Priority queue applications](src/main/java/algs4/lesson7/priority-queue%20application.png 
+"Priority queue applications")
