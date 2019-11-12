@@ -1,7 +1,15 @@
-# Two Sum
+# Solution1 Two Sum
 
-# add two numbers
+# Solution2 add two numbers
 
-# find median sorted arrays
+# Solution4 find median sorted arrays
 
-# longest palindrme substring
+# Solution5 longest palindrme substring
+
+# Solution138 deep copy LinkedList node with random pointer
+
+# Solution200 Number of Islands
+
+# Solution937 Reorder Data in Log Files
+
+# Solution973 K Closest Points to Origin
