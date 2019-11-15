@@ -25,3 +25,9 @@
 # Solution240 Search Matrix
 
 # Solution253 Min MeetingRooms 
+
+# Solution238 Product of Array Except Self
+
+# Solution341 Flatten Nested List Iterator    
+
+# Solution692 Top K Frequent Words 
