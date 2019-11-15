@@ -22,4 +22,24 @@ public class InOrderTraversal {
         return res;
     }
 
+    public static void main(String[] args) {
+//        PatternMatch regrex = new PatternMatch();
+//        regrex.setPattern("(!|?|'|,|;|.)");
+//        if (regrex.compile(paragraph)) {
+//
+//        }
+        String paragraph = "abc, ebd wcrt! sdfsd.";
+        StringBuilder word = new StringBuilder();
+        char[] paragraphArr = paragraph.toCharArray();
+        for (char c : paragraphArr) {
+            if (Character.isLetter(c)) {
+                word.append(Character.toLowerCase(c));
+            }
+
+        }
+        for (int i = 0; i < paragraphArr.length; i++) {
+            System.out.println(paragraphArr[i]);
+        }
+    }
+
 }
