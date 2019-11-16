@@ -3,6 +3,9 @@ package amazon;
 import static java.lang.Math.max;
 import static java.lang.Math.min;
 
+/**
+ * 思路：使用two points，从左边开始获取最大覆盖的面积，从右边开始获取最大覆盖的面积，两个取最小并和原数组各个位置求差
+ */
 public class TrappingRainWater {
 
     static int trap(int[] height) {

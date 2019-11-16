@@ -1,5 +1,8 @@
 package amazon;
 
+/**
+ * 思路：由内向外扩散，递归取最长回文，获取此回文在字符串中的位置
+ */
 public class LongestPalindromicSubstring {
 
     public String longestPalindrome(String s) {

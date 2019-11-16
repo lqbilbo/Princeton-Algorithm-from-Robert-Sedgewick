@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 /**
  * 克隆逻辑：如果访问哈希map包含节点则直接返回；否则deepcopy一个并返回
- *
+ * 思路：先做老结点的浅拷贝（只拷贝值），再做新老结点的映射。克隆
  */
 public class CopyListWithRandomPointer {
 

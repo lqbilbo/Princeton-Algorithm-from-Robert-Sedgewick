@@ -2,6 +2,9 @@ package amazon;
 
 import java.util.Arrays;
 
+/**
+ * 逐个比较两个log，如果有数字则数字放前面（两个都是数字的原顺序），都不是数字则比较字母顺序，如果相同则比较前面的log的大小。
+ */
 public class ReOrderLogFiles {
     public static String[] reorderLogFiles(String[] logs) {
         Arrays.sort(logs, (log1, log2) -> {

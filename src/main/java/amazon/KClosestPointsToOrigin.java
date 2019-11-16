@@ -2,6 +2,9 @@ package amazon;
 
 import java.util.Arrays;
 
+/**
+ * 思路：降维，打平为一维数组，排序并获取第K个位置的欧几里得距离distK。获取所有点和distK比较，小于的放入K行2列的二维数组
+ */
 public class KClosestPointsToOrigin {
 
     public int[][] kClosest(int[][] points, int K) {

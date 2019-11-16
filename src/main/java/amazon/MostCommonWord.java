@@ -5,6 +5,11 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+/**
+ * 思路：使用set去重banned，map记录每个单词出现的频数，循环转换为char数组的string，判断是否字母，是的话则放入stringBuilder，
+ * 遇到不是字母的情况时记录不在banned中的单词到map中。如果比记录的频数ansfreq大，则更新最大频数ansfreq
+ * 每次一个完整单词处理后清空stringBuilder
+ */
 public class MostCommonWord {
 
     public static String mostCommonWord(String paragraph, String[] banned) {

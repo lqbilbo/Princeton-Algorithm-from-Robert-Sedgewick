@@ -1,5 +1,8 @@
 package amazon;
 
+/**
+ * 思路：动态规划，获取棋盘的长和宽，n^2的遍历，如果遇到1的情况，增加岛数量，并使用dfs看四个正方位是0还是1，遇到0退出继续下一个循环
+ */
 public class NumberOfIslands {
 
     void dfs(char[][] grid, int r, int c) {
