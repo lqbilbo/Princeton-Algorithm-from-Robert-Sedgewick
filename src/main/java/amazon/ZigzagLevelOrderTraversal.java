@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
+/**
+ * 三个容器：两个存放奇偶行的stack，一个存放level的结点数值的数组的list。
+ * 奇数行为空或者偶数行为空时放入output，并重置level list，下降一层。
+ * 否则取出奇数行或偶数行的元素，数值放入level list。
+ * 往偶数行或奇数行的stack里push左右叶子结点。
+ */
 public class ZigzagLevelOrderTraversal {
 
     class TreeNode {
