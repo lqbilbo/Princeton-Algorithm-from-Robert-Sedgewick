@@ -31,3 +31,11 @@
 # Solution341 Flatten Nested List Iterator    
 
 # Solution692 Top K Frequent Words 
+
+# Solution994 Rotting Oranges
+We can use a breadth-first search to model this process. Because we always explore nodes (oranges) with the smallest 
+depth first, we're guaranteed that each orange that becomes rotten does so with the lowest possible depth number.
+We should also check that at the end, there are no fresh oranges left.
+Complexity Analysis
+Time Complexity: O(N)O(N), where NN is the number of cells in the grid.
+Space Complexity: O(N)O(N).
