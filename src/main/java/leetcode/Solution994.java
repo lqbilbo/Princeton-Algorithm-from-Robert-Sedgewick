@@ -9,6 +9,18 @@ import java.util.Queue;
 public class Solution994 {
 
     static int[][] dirs = {{0, -1}, {0, 1}, {1, 0}, {-1, 0}};
+
+    /**
+     * intuition: bfs
+     * We can use a breadth-first search to model this process. Because we always explore nodes (oranges) with the
+     * smallest depth first, we're guaranteed that each orange that becomes rotten does so with the lowest possible
+     * depth number. We should also check that at the end, there are no fresh oranges left.Complexity Analysis.
+     *
+     * Time Complexity: O(N)O(N), where NN is the number of cells in the grid.
+     * Space Complexity: O(N)O(N).
+     * @param grid
+     * @return
+     */
     public static int orangesRotting(int[][] grid) {
         if (grid == null)
             return 0;

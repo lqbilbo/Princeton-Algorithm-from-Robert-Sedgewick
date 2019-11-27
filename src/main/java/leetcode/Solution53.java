@@ -1,6 +1,13 @@
 package leetcode;
 
 class Solution53 {
+    /**
+     * intuition
+     * The algorithm is general and straightforward: iterate over the array and update at each step the standard set for
+     * such problems:current element.current local maximum sum (at this given point).global maximum sum seen so far.
+     * @param nums
+     * @return
+     */
     public static int maxSubArray(int[] nums) {
         int n = nums.length;
         int currSum = nums[0], maxSum = nums[0];
