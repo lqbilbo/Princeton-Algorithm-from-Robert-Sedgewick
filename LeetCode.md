@@ -26,3 +26,7 @@
 | 169 | Majority Element | [Java](./src/main/java/leetcode/Solution169.java) | Boyer-Moore Voting Algorithm is amazing | Array
 | 122 | Best Time to Buy and Sell Stock II | [Java](./src/main/java/leetcode/Solution122.java) | Peak Valley Approach, Simple One Pass | Array
 | 66 | Plus One | [Java](./src/main/java/leetcode/Solution66.java) |  | Array
+| 88 | Merge Sorted Array | [Java](./src/main/java/leetcode/Solution88.java) |  | Array
+| 283 | Move Zeroes | [Java](./src/main/java/leetcode/Solution283.java) |  | Array
+| 23 | Merge k Sorted Lists | [Java](./src/main/java/leetcode/Solution23.java) | Priority Queue, Divide & Conquer | LinkedList
+| 148 | Sort List | [Java](./src/main/java/leetcode/Solution148.java) |  | LinkedList
