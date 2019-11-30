@@ -30,3 +30,6 @@
 | 283 | Move Zeroes | [Java](./src/main/java/leetcode/Solution283.java) |  | Array
 | 23 | Merge k Sorted Lists | [Java](./src/main/java/leetcode/Solution23.java) | Priority Queue, Divide & Conquer | LinkedList
 | 148 | Sort List | [Java](./src/main/java/leetcode/Solution148.java) |  | LinkedList
+| 369 | Plus One Linked List | [Java](./src/main/java/leetcode/Solution369.java) |  | LinkedList 
+| 109 | Convert Sorted List to Binary Search Tree | [Java](./src/main/java/leetcode/Solution109.java) | two pointer, inorder | LinkedList, DFS
+| 817 | Linked List Components | [Java](./src/main/java/leetcode/Solution817.java) | Grouping | LinkedList
