@@ -33,3 +33,5 @@
 | 369 | Plus One Linked List | [Java](./src/main/java/leetcode/Solution369.java) |  | LinkedList 
 | 109 | Convert Sorted List to Binary Search Tree | [Java](./src/main/java/leetcode/Solution109.java) | two pointer, inorder | LinkedList, DFS
 | 817 | Linked List Components | [Java](./src/main/java/leetcode/Solution817.java) | Grouping | LinkedList
+| 426 | Convert Binary Search Tree to Sorted Doubly Linked List | [Java](./src/main/java/leetcode/Solution426.java) | Divide & Conquer | LinkedList
+| 155 | Min Stack | [Java](./src/main/java/leetcode/Solution155.java) | Deque | Stack
