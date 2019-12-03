@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Stack;
 
-class Solution844 {
+public class Solution844 {
     public boolean backspaceCompare(String S, String T) {
         Stack<Character> stack1 = new Stack<>();
         Stack<Character> stack2 = new Stack<>();

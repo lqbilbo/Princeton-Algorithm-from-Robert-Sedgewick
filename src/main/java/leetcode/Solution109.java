@@ -33,7 +33,7 @@ import learn.TreeNode;
  * 2.Pre order and
  * 3.Post order traversals
  */
-class Solution109 {
+public class Solution109 {
 
     private ListNode head;
 

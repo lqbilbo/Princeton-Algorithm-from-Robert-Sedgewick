@@ -7,7 +7,7 @@ import java.util.*;
 /**
  * breadth first search approach
  */
-class Solution127 {
+public class Solution127 {
 
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
 

@@ -1,6 +1,6 @@
 package leetcode;
 
-class Solution53 {
+public class Solution53 {
     /**
      * intuition
      * The algorithm is general and straightforward: iterate over the array and update at each step the standard set for

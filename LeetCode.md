@@ -39,3 +39,4 @@
 | 844 | Backspace String Compare | [Java](./src/main/java/leetcode/Solution844.java) |  | Stack 
 | 236 | Moving Average from Data Stream | [Java](./src/main/java/leetcode/Solution236.java) | deque, circular deque | Queue
 | 582 | Kill Process | [Java](./src/main/java/leetcode/Solution582.java) | HashMap, BFS, DFS | Queue
+| 65 | valid number | [Java](./src/main/java/leetcode/Solution65.java) | 
