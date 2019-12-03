@@ -1,6 +1,6 @@
 package leetcode;
 
-class Solution88 {
+public class Solution88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         // two get pointers for nums1 and nums2
         int p1 = m - 1;

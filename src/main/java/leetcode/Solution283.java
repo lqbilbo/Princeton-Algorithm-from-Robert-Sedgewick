@@ -1,6 +1,6 @@
 package leetcode;
 
-class Solution283 {
+public class Solution283 {
     public void moveZeroes(int[] nums) {
         int head = 0;
         int tail = 1;

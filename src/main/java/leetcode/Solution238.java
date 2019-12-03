@@ -1,6 +1,6 @@
 package leetcode;
 
-class Solution238 {
+public class Solution238 {
     public int[] productExceptSelf(int[] nums) {
 
         // The length of the input array

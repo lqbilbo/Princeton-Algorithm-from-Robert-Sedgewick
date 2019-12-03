@@ -1,6 +1,6 @@
 package leetcode;
 
-class Solution713 {
+public class Solution713 {
 
     /**
      * intuition: sliding window
