@@ -6,7 +6,7 @@ import java.util.Queue;
 
 public class Solution364 {
 
-    interface NestedInteger {
+    /*interface NestedInteger {
         boolean isInteger();
         Integer getInteger();
         List<NestedInteger> getList();
@@ -38,6 +38,6 @@ public class Solution364 {
             total += prev;
         }
         return total;
-    }
+    }*/
 
 }
