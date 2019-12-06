@@ -31,7 +31,7 @@
 | 23 | Merge k Sorted Lists | [Java](./src/main/java/leetcode/Solution23.java) | Priority Queue, Divide & Conquer | LinkedList
 | 148 | Sort List | [Java](./src/main/java/leetcode/Solution148.java) |  | LinkedList
 | 369 | Plus One Linked List | [Java](./src/main/java/leetcode/Solution369.java) |  | LinkedList 
-| 109 | Convert Sorted List to Binary Search Tree | [Java](./src/main/java/leetcode/Solution109.java) | two pointer, inorder | LinkedList, DFS
+| 109 | Convert Sorted List to Binary Search Tree | [Java](./src/main/java/leetcode/Solution109.java) | two pointer, inOrder | LinkedList, DFS
 | 817 | Linked List Components | [Java](./src/main/java/leetcode/Solution817.java) | Grouping | LinkedList
 | 426 | Convert Binary Search Tree to Sorted Doubly Linked List | [Java](./src/main/java/leetcode/Solution426.java) | Divide & Conquer | LinkedList
 | 155 | Min Stack | [Java](./src/main/java/leetcode/Solution155.java) | Deque | Stack
@@ -40,3 +40,4 @@
 | 236 | Moving Average from Data Stream | [Java](./src/main/java/leetcode/Solution236.java) | deque, circular deque | Queue
 | 582 | Kill Process | [Java](./src/main/java/leetcode/Solution582.java) | HashMap, BFS, DFS | Queue
 | 65 | valid number | [Java](./src/main/java/leetcode/Solution65.java) | 
+| 272 | Closest Binary Search Tree Value II | [Java](./src/main/java/linkedin/Solution272.java) | deque, inOrder | Stack, BST

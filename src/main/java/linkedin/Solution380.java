@@ -1,56 +1,47 @@
 package linkedin;
 
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.Map;
-import java.util.Random;
+import java.util.*;
 
 public class Solution380 {
 
-    LinkedList<Integer> list;
-    Map<Integer, Integer> map;
-    int i = 0;
+    Map<Integer, Integer> dict;
+    List<Integer> list;
+    Random rand = new Random();
+
     /** Initialize your data structure here. */
     public Solution380() {
-        list = new LinkedList<>();
-        map = new HashMap<>();
+        dict = new HashMap();
+        list = new ArrayList();
     }
 
     /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
     public boolean insert(int val) {
-        if (!list.contains(val)) {
-            list.add(val);
-            map.put(++i, val);
-            return true;
-        }
-        return false;
+        if (dict.containsKey(val)) return false;
+
+        dict.put(val, list.size());
+        list.add(list.size(), val);
+        return true;
     }
 
     /** Removes a value from the set. Returns true if the set contained the specified element. */
     public boolean remove(int val) {
-        if (list.contains(val)) {
-            list.removeFirstOccurrence(val);
-            return true;
-        }
-        return false;
+        if (! dict.containsKey(val)) return false;
+
+        // move the last element to the place idx of the element to delete
+        int lastElement = list.get(list.size() - 1);
+        int idx = dict.get(val);
+        list.set(idx, lastElement);
+        dict.put(lastElement, idx);
+        // delete the last element
+        list.remove(list.size() - 1);
+        dict.remove(val);
+        return true;
     }
 
     /** Get a random element from the set. */
     public int getRandom() {
-        Random random = new Random(i);
-        if (random.nextInt() >= 1) {
-            return list.get(random.nextInt() - 1);
-        }
-        return list.get(0);
+        return list.get(rand.nextInt(list.size()));
     }
-
-    /**
-     * Your RandomizedSet object will be instantiated and called as such:
-     * RandomizedSet obj = new RandomizedSet();
-     * boolean param_1 = obj.insert(val);
-     * boolean param_2 = obj.remove(val);
-     * int param_3 = obj.getRandom();
-     */
 
     public static void main(String[] args) {
         Solution380 solution380 = new Solution380();
