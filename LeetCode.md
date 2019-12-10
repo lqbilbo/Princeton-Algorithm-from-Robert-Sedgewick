@@ -41,3 +41,4 @@
 | 582 | Kill Process | [Java](./src/main/java/leetcode/Solution582.java) | HashMap, BFS, DFS | Queue
 | 65 | valid number | [Java](./src/main/java/leetcode/Solution65.java) | 
 | 272 | Closest Binary Search Tree Value II | [Java](./src/main/java/linkedin/Solution272.java) | deque, inOrder | Stack, BST
+| 1001 | Maximize Sum Of Array After K Negations | [Java](./src/main/java/linkedin/Solution1001.java) | Priority Queue | Queue
