@@ -2,7 +2,7 @@ package amazon;
 
 import java.util.*;
 
-public class KFrequentWords {
+public class Solution347 {
 
     /**
      * intuition

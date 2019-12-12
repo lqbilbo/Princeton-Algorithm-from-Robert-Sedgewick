@@ -1,5 +1,5 @@
-| # | Title | Solution | Approach | Tag |
-|---| ----- | -------- | -------- | --- |
+| # | Title | Solution | Approach | Tag | Article |
+|---| ----- | -------- | -------- | --- | ------- |
 | 1 | Two Sum | [Java](./src/main/java/leetcode/Solution1.java)
 | 2 | add two numbers | [Java](./src/main/java/leetcode/Solution2.java)
 | 4 | find median sorted arrays | [Java](./src/main/java/leetcode/Solution4.java)
@@ -22,8 +22,8 @@
 | 973 | K Closest Points to Origin | [Java](./src/main/java/leetcode/Solution973.java)
 | 994 | Rotting Oranges | [Java](./src/main/java/leetcode/Solution994.java)
 | --- | ----- | -------- | -------- | --- |
-| 11 | Container With Most Water | [Java](./src/main/java/leetcode/Solution11.java) | two points | Array 
-| 169 | Majority Element | [Java](./src/main/java/leetcode/Solution169.java) | Boyer-Moore Voting Algorithm is amazing | Array
+| 11 | Container With Most Water | [Java](./src/main/java/leetcode/Solution11.java) | two points | Array | [Container With Most Water](https://leetcode.com/articles/container-with-most-water/)
+| 169 | Majority Element | [Java](./src/main/java/leetcode/Solution169.java) | Boyer-Moore Voting Algorithm is amazing | Array | [Majority Element](https://leetcode.com/articles/majority-element/)
 | 122 | Best Time to Buy and Sell Stock II | [Java](./src/main/java/leetcode/Solution122.java) | Peak Valley Approach, Simple One Pass | Array
 | 66 | Plus One | [Java](./src/main/java/leetcode/Solution66.java) |  | Array
 | 88 | Merge Sorted Array | [Java](./src/main/java/leetcode/Solution88.java) |  | Array

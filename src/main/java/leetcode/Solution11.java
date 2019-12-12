@@ -10,9 +10,13 @@ public class Solution11 {
      * of the shorter line. Further, the farther the lines, the more will be the area obtained.
      *
      * We take two pointers, one at the beginning and one at the end of the array constituting the length of the lines.
-     * Futher, we maintain a variable \text{maxarea}maxarea to store the maximum area obtained till now. At every step,
-     * we find out the area formed between them, update \text{maxarea}maxarea and move the pointer pointing to the
+     * Futher, we maintain a variable maxarea to store the maximum area obtained till now. At every step,
+     * we find out the area formed between them, update maxarea and move the pointer pointing to the
      * shorter line towards the other end by one step.
+     *
+     * 面积的组成总是受到最短的那条线的高度的约束，或者说最短的那条线的高度决定了面积多大。另一方面，线离y轴越远面积越大。
+     * 我们使用两个指针，一个指向最开头，一个指向数组结尾。另外维护一个maxarea变量存储目前最大的面积。
+     * 每一步都会计算出面积，更新maxarea并将指针指向更短的那条线。
      * @param height
      * @return
      */
