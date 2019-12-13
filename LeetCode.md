@@ -24,7 +24,7 @@
 | --- | ----- | -------- | -------- | --- |
 | 11 | Container With Most Water | [Java](./src/main/java/leetcode/Solution11.java) | two points | Array | [Container With Most Water](https://leetcode.com/articles/container-with-most-water/)
 | 169 | Majority Element | [Java](./src/main/java/leetcode/Solution169.java) | Boyer-Moore Voting Algorithm is amazing | Array | [Majority Element](https://leetcode.com/articles/majority-element/)
-| 122 | Best Time to Buy and Sell Stock II | [Java](./src/main/java/leetcode/Solution122.java) | Peak Valley Approach, Simple One Pass | Array
+| 122 | Best Time to Buy and Sell Stock II | [Java](./src/main/java/leetcode/Solution122.java) | Peak Valley Approach, Simple One Pass | Array | [Best Time to Buy and Sell Stock II](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii)
 | 66 | Plus One | [Java](./src/main/java/leetcode/Solution66.java) |  | Array
 | 88 | Merge Sorted Array | [Java](./src/main/java/leetcode/Solution88.java) |  | Array
 | 283 | Move Zeroes | [Java](./src/main/java/leetcode/Solution283.java) |  | Array
