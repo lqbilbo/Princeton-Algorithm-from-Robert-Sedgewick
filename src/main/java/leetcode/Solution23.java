@@ -35,10 +35,10 @@ public class Solution23 {
     }
 
     /**
-     * Time complexity : O(N\log k)O(Nlogk) where \text{k}k is the number of linked lists.
+     * Time complexity : O(Nlogk) where k is the number of linked lists.
      *
      * Space complexity : O(1)
-     * We can merge two sorted linked lists in O(1)O(1) space.
+     * We can merge two sorted linked lists in O(1) space.
      * @param lists
      * @return
      */
@@ -59,6 +59,8 @@ public class Solution23 {
 
     /**
      * use priority queue
+     * Time complexity : O(Nlogk)
+     * Space complexity : O(N+k) ~ O(N)
      * @param lists
      * @return
      */

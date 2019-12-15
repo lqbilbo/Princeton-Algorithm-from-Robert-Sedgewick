@@ -26,9 +26,9 @@
 | 169 | Majority Element | [Java](./src/main/java/leetcode/Solution169.java) | Boyer-Moore Voting Algorithm is amazing | Array | [Majority Element](https://leetcode.com/articles/majority-element/)
 | 122 | Best Time to Buy and Sell Stock II | [Java](./src/main/java/leetcode/Solution122.java) | Peak Valley Approach, Simple One Pass | Array | [Best Time to Buy and Sell Stock II](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii)
 | 66 | Plus One | [Java](./src/main/java/leetcode/Solution66.java) |  | Array
-| 88 | Merge Sorted Array | [Java](./src/main/java/leetcode/Solution88.java) |  | Array
-| 283 | Move Zeroes | [Java](./src/main/java/leetcode/Solution283.java) |  | Array
-| 23 | Merge k Sorted Lists | [Java](./src/main/java/leetcode/Solution23.java) | Priority Queue, Divide & Conquer | LinkedList
+| 88 | Merge Sorted Arrays | [Java](./src/main/java/leetcode/Solution88.java) |  | Array | [Merge Sorted Arrays](https://leetcode.com/articles/merge-sorted-arrays/)
+| 283 | Move Zeroes | [Java](./src/main/java/leetcode/Solution283.java) |  | Array | [Move Zeroes](https://leetcode.com/articles/move-zeroes/)
+| 23 | Merge k Sorted Lists | [Java](./src/main/java/leetcode/Solution23.java) | Priority Queue, Divide & Conquer | LinkedList | [Merge k Sorted Lists](https://leetcode.com/articles/merge-k-sorted-list/)
 | 148 | Sort List | [Java](./src/main/java/leetcode/Solution148.java) |  | LinkedList
 | 369 | Plus One Linked List | [Java](./src/main/java/leetcode/Solution369.java) |  | LinkedList 
 | 109 | Convert Sorted List to Binary Search Tree | [Java](./src/main/java/leetcode/Solution109.java) | two pointer, inOrder | LinkedList, DFS
