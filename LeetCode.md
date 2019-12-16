@@ -29,11 +29,11 @@
 | 88 | Merge Sorted Arrays | [Java](./src/main/java/leetcode/Solution88.java) |  | Array | [Merge Sorted Arrays](https://leetcode.com/articles/merge-sorted-arrays/)
 | 283 | Move Zeroes | [Java](./src/main/java/leetcode/Solution283.java) |  | Array | [Move Zeroes](https://leetcode.com/articles/move-zeroes/)
 | 23 | Merge k Sorted Lists | [Java](./src/main/java/leetcode/Solution23.java) | Priority Queue, Divide & Conquer | LinkedList | [Merge k Sorted Lists](https://leetcode.com/articles/merge-k-sorted-list/)
-| 148 | Sort List | [Java](./src/main/java/leetcode/Solution148.java) |  | LinkedList
+| 148 | Sort List | [Java](./src/main/java/leetcode/Solution148.java) |  | LinkedList | 
 | 369 | Plus One Linked List | [Java](./src/main/java/leetcode/Solution369.java) |  | LinkedList 
-| 109 | Convert Sorted List to Binary Search Tree | [Java](./src/main/java/leetcode/Solution109.java) | two pointer, inOrder | LinkedList, DFS
-| 817 | Linked List Components | [Java](./src/main/java/leetcode/Solution817.java) | Grouping | LinkedList
-| 426 | Convert Binary Search Tree to Sorted Doubly Linked List | [Java](./src/main/java/leetcode/Solution426.java) | Divide & Conquer | LinkedList
+| 109 | Convert Sorted List to Binary Search Tree | [Java](./src/main/java/leetcode/Solution109.java) | two pointer, inOrder | LinkedList, DFS | [Convert Sorted List to Binary Search Tree](https://leetcode.com/articles/convert-sorted-list-to-binary-search-tree/)
+| 817 | Linked List Components | [Java](./src/main/java/leetcode/Solution817.java) | Grouping | LinkedList | [Linked List Components](https://leetcode.com/articles/linked-list-components/)
+| 426 | Convert Binary Search Tree to Sorted Doubly Linked List | [Java](./src/main/java/leetcode/Solution426.java) | Divide & Conquer | LinkedList | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/articles/convert-binary-search-tree-to-sorted-doubly-linked/)
 | 155 | Min Stack | [Java](./src/main/java/leetcode/Solution155.java) | Deque | Stack
 | 232 | Implement Queue using Stacks | [Java](./src/main/java/leetcode/Solution232.java) |  | Stack
 | 844 | Backspace String Compare | [Java](./src/main/java/leetcode/Solution844.java) |  | Stack 

@@ -72,6 +72,12 @@ public class Solution109 {
     }
 
     /**
+     * Inorder Simulation
+     * Intuition:
+     * Elements processed in the inorder fashion on a binary search tree turn out to be sorted in ascending order.
+     * We know that the leftmost element in the inorder traversal has to be the head of our given linked list. Similarly,
+     * the next element in the inorder traversal will be the second element in the linked list and so on. This is made
+     * possible because the initial list given to us is sorted in ascending order.
      * Time Complexity: O(N)
      * Space Complexity: O(logN)
      * @param head
