@@ -1,5 +1,5 @@
-| # | Title | Solution | Approach | Tag | Article |
-|---| ----- | -------- | -------- | --- | ------- |
+| # | Title | Solution | Approach | Tag | Article | Image |
+|---| ----- | -------- | -------- | --- | ------- | ----- |
 | 1 | Two Sum | [Java](./src/main/java/leetcode/Solution1.java)
 | 2 | add two numbers | [Java](./src/main/java/leetcode/Solution2.java)
 | 4 | find median sorted arrays | [Java](./src/main/java/leetcode/Solution4.java)
@@ -33,9 +33,9 @@
 | 369 | Plus One Linked List | [Java](./src/main/java/leetcode/Solution369.java) |  | LinkedList 
 | 109 | Convert Sorted List to Binary Search Tree | [Java](./src/main/java/leetcode/Solution109.java) | two pointer, inOrder | LinkedList, DFS | [Convert Sorted List to Binary Search Tree](https://leetcode.com/articles/convert-sorted-list-to-binary-search-tree/)
 | 817 | Linked List Components | [Java](./src/main/java/leetcode/Solution817.java) | Grouping | LinkedList | [Linked List Components](https://leetcode.com/articles/linked-list-components/)
-| 426 | Convert Binary Search Tree to Sorted Doubly Linked List | [Java](./src/main/java/leetcode/Solution426.java) | Divide & Conquer | LinkedList | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/articles/convert-binary-search-tree-to-sorted-doubly-linked/)
+| 426 | Convert Binary Search Tree to Sorted Doubly Linked List | [Java](./src/main/java/leetcode/Solution426.java) | Divide & Conquer | LinkedList | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/articles/convert-binary-search-tree-to-sorted-doubly-linked/) | [BST](./src/main/java/image/426-2.png)
 | 155 | Min Stack | [Java](./src/main/java/leetcode/Solution155.java) | Deque | Stack
-| 232 | Implement Queue using Stacks | [Java](./src/main/java/leetcode/Solution232.java) |  | Stack
+| 232 | Implement Queue using Stacks | [Java](./src/main/java/leetcode/Solution232.java) |  | Stack | [Implement Queue using Stacks](https://leetcode.com/articles/implement-queue-using-stacks/) | [push](./src/main/java/image/implement-queue-using-stacks-push.png) [pop](./src/main/java/image/implement-queue-using-stacks-pop.png)
 | 844 | Backspace String Compare | [Java](./src/main/java/leetcode/Solution844.java) |  | Stack 
 | 236 | Moving Average from Data Stream | [Java](./src/main/java/leetcode/Solution236.java) | deque, circular deque | Queue
 | 582 | Kill Process | [Java](./src/main/java/leetcode/Solution582.java) | HashMap, BFS, DFS | Queue

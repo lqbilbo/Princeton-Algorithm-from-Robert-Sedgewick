@@ -2,6 +2,12 @@ package leetcode;
 
 import java.util.Stack;
 
+/**
+ * Queue is FIFO data structure, in which the elements are inserted from one side - [rear] and removed from the other -
+ * [front]. The most intuitive way to implement it is with linked lists, but another approach is using stacks.
+ * To satisfy FIFO property of a queue we need to keep two stacks. They serve to reverse arrival order of the elements
+ * and one of them store the queue elements in their final order.
+ */
 public class Solution232 {
 
     private int front;
