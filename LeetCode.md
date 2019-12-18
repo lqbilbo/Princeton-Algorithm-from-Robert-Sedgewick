@@ -36,9 +36,9 @@
 | 426 | Convert Binary Search Tree to Sorted Doubly Linked List | [Java](./src/main/java/leetcode/Solution426.java) | Divide & Conquer | LinkedList | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/articles/convert-binary-search-tree-to-sorted-doubly-linked/) | [BST](./src/main/java/image/426-2.png)
 | 155 | Min Stack | [Java](./src/main/java/leetcode/Solution155.java) | Deque | Stack
 | 232 | Implement Queue using Stacks | [Java](./src/main/java/leetcode/Solution232.java) |  | Stack | [Implement Queue using Stacks](https://leetcode.com/articles/implement-queue-using-stacks/) | [push](./src/main/java/image/implement-queue-using-stacks-push.png) [pop](./src/main/java/image/implement-queue-using-stacks-pop.png)
-| 844 | Backspace String Compare | [Java](./src/main/java/leetcode/Solution844.java) |  | Stack 
-| 236 | Moving Average from Data Stream | [Java](./src/main/java/leetcode/Solution236.java) | deque, circular deque | Queue
-| 582 | Kill Process | [Java](./src/main/java/leetcode/Solution582.java) | HashMap, BFS, DFS | Queue
+| 844 | Backspace String Compare | [Java](./src/main/java/leetcode/Solution844.java) |  | Stack | [Backspace String Compare](https://leetcode.com/articles/backspace-string-compare/)
+| 346 | Moving Average from Data Stream | [Java](./src/main/java/leetcode/Solution346.java) | deque, circular deque | Queue | [Moving Average from Data Stream](https://leetcode.com/articles/moving-average-from-data-stream/)
+| 582 | Kill Process | [Java](./src/main/java/leetcode/Solution582.java) | HashMap, BFS, DFS | Queue | [Kill Process](https://leetcode.com/articles/kill-process/)
 | 65 | valid number | [Java](./src/main/java/leetcode/Solution65.java) | 
 | 272 | Closest Binary Search Tree Value II | [Java](./src/main/java/linkedin/Solution272.java) | deque, inOrder | Stack, BST
 | 1001 | Maximize Sum Of Array After K Negations | [Java](./src/main/java/linkedin/Solution1001.java) | Priority Queue | Queue

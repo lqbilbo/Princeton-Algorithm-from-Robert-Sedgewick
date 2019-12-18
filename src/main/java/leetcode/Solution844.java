@@ -51,6 +51,9 @@ public class Solution844 {
      *
      * If instead we iterate through the string in reverse, then we will know how many backspace characters we have
      * seen, and therefore whether the result includes our character.
+     *
+     * Time complexity: O(M+N)
+     * Space complexity: O(1)
      * @param S
      * @param T
      * @return
