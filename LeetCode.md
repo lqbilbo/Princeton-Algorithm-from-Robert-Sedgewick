@@ -21,6 +21,7 @@
 | 957 | prison After N Days | [Java](./src/main/java/leetcode/Solution957.java)
 | 973 | K Closest Points to Origin | [Java](./src/main/java/leetcode/Solution973.java)
 | 994 | Rotting Oranges | [Java](./src/main/java/leetcode/Solution994.java)
+| 416 | Partition Equal Subset Sum | [Java](./src/main/java/leetcode/Solution416.java) | DP | Array | [Partition Equal Subset Sum](https://leetcode.com/articles/partition-to-k-equal-sum-subsets/)
 | --- | ----- | -------- | -------- | --- |
 | 11 | Container With Most Water | [Java](./src/main/java/leetcode/Solution11.java) | two points | Array | [Container With Most Water](https://leetcode.com/articles/container-with-most-water/)
 | 169 | Majority Element | [Java](./src/main/java/leetcode/Solution169.java) | Boyer-Moore Voting Algorithm is amazing | Array | [Majority Element](https://leetcode.com/articles/majority-element/)
