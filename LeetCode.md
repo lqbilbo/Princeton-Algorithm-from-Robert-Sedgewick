@@ -42,6 +42,7 @@
 | 202 | Happy Number | [Java](./src/main/java/leetcode/Solution202.java) | HashTable, Math | Math | [Happy Number](https://leetcode.com/articles/happy-number/)
 | 1007 | Minimum Domino Rotations For Equal Row | [Java](./src/main/java/leetcode/Solution1007.java) | Greedy | Array, Greedy | [Minimum Domino Rotations For Equal Row](https://leetcode.com/articles/minimum-domino-rotations-for-equal-row/)
 | 698 | Partition to K Equal Sum Subsets | [Java](./src/main/java/leetcode/Solution698.java) | DP, Recursion | DP | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+| 289 | Game of Life | [Java](./src/main/java/leetcode/Solution289.java) | Array | Array | [Game of Life](https://leetcode.com/articles/game-of-life/)
 | --- | ----- | -------- | -------- | --- |
 | 498 | Diagonal Traverse | [Java](./src/main/java/linkedin/Solution498.java) | Matrix | Math
 | 65 | valid number | [Java](./src/main/java/leetcode/Solution65.java) |
