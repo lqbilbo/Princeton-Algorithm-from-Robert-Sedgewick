@@ -2,6 +2,17 @@ package leetcode;
 
 public class Solution289 {
 
+    /**
+     * Intuition:
+     * you cannot update some cells first and then use their updated values to update other cells.
+     *
+     * Algorithm
+     *
+     * Make a copy of the original board which will remain unchanged throughout the process.
+     * Iterate the cells of the Board one by one.
+     * While computing the results of the rules, use the copy board and apply the result in the original board.
+     * @param board
+     */
     public void gameOfLife(int[][] board) {
 
         // Neighbors array to find 8 neighboring cells for a given cell
