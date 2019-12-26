@@ -24,7 +24,7 @@
 | 416 | Partition Equal Subset Sum | [Java](./src/main/java/leetcode/Solution416.java) | DP | Array | [Partition Equal Subset Sum](https://leetcode.com/articles/partition-to-k-equal-sum-subsets/)
 | 22 | Generate Parentheses | [Java](./src/main/java/leetcode/Solution22.java) | Closure Number | String | [Generate Parentheses](https://leetcode.com/articles/generate-parentheses/)
 | 11 | Container With Most Water | [Java](./src/main/java/leetcode/Solution11.java) | two points | Array | [Container With Most Water](https://leetcode.com/articles/container-with-most-water/)
-| 169 | Majority Element | [Java](./src/main/java/leetcode/Solution169.java) | Boyer-Moore Voting Algorithm is amazing | Array | [Majority Element](https://leetcode.com/articles/majority-element/)
+| 169 | Majority Element | [Java](./src/main/java/leetcode/Solutiong169.java) | Boyer-Moore Voting Algorithm is amazing | Array | [Majority Element](https://leetcode.com/articles/majority-element/)
 | 122 | Best Time to Buy and Sell Stock II | [Java](./src/main/java/leetcode/Solution122.java) | Peak Valley Approach, Simple One Pass | Array | [Best Time to Buy and Sell Stock II](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii)
 | 66 | Plus One | [Java](./src/main/java/leetcode/Solution66.java) |  | Array
 | 88 | Merge Sorted Arrays | [Java](./src/main/java/leetcode/Solution88.java) |  | Array | [Merge Sorted Arrays](https://leetcode.com/articles/merge-sorted-arrays/)
@@ -44,6 +44,7 @@
 | 698 | Partition to K Equal Sum Subsets | [Java](./src/main/java/leetcode/Solution698.java) | DP, Recursion | DP | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
 | 289 | Game of Life | [Java](./src/main/java/leetcode/Solution289.java) | Array | Array | [Game of Life](https://leetcode.com/articles/game-of-life/)
 | 794 | Valid Tic-Tac-Toe State | [Java](./src/main/java/leetcode/Solution794.java) | Math | Math, Recursion | [Valid Tic-Tac-Toe State](https://leetcode.com/articles/valid-tic-tac-toe-state/)
+| 189 | Rotate Array | [Java](./src/main/java/learn/RotateArray.java) | Using Cyclic Replacements | Array | [Rotate Array](https://leetcode.com/articles/rotate-array/) | [cyclic replacements](./src/main/java/image/cyclic-replacements.png)
 | --- | ----- | -------- | -------- | --- |
 | 498 | Diagonal Traverse | [Java](./src/main/java/linkedin/Solution498.java) | Matrix | Math
 | 65 | valid number | [Java](./src/main/java/leetcode/Solution65.java) |
