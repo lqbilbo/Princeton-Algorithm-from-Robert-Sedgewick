@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution1013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution252.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,6 +44,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#767#775#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution252.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1957">
+              <caret line="383" column="22" lean-forward="true" selection-start-line="383" selection-start-column="22" selection-end-line="383" selection-end-column="22" />
+              <folding>
+                <element signature="e#19327#19328#0" expanded="true" />
+                <element signature="e#19410#19411#0" expanded="true" />
+                <element signature="e#24331#24332#0" expanded="true" />
+                <element signature="e#24396#24397#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution153.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
@@ -53,41 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution557.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution698.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1278">
-              <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution794.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution56.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -163,8 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/linkedin/NestedInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/linkedin/Solution24.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedin/Solution364.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedin/Solution244.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedin/Solution716.java" />
@@ -214,6 +221,8 @@
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution1013.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution153.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution557.java" />
+        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution17.java" />
+        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution252.java" />
       </list>
     </option>
   </component>
@@ -424,14 +433,7 @@
       <workItem from="1576133649953" duration="8697000" />
       <workItem from="1576509879267" duration="176000" />
       <workItem from="1576552703567" duration="28107000" />
-      <workItem from="1577416582499" duration="1189000" />
-    </task>
-    <task id="LOCAL-00002" summary="lesson 2,stack &amp; queue">
-      <created>1572175555980</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1572175555980</updated>
+      <workItem from="1577416582499" duration="2185000" />
     </task>
     <task id="LOCAL-00003" summary="lesson 2,application">
       <created>1572183972703</created>
@@ -769,18 +771,25 @@
       <option name="project" value="LOCAL" />
       <updated>1577366277768</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="three microsoft easy problems">
+      <created>1577458091054</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1577458091055</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246322000" />
+    <option name="totallyTimeSpent" value="247318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49752066" visible="true" weight="0.25608012" />
-      <window_info id="Structure" order="1" sideWeight="0.5024793" side_tool="true" weight="0.2911302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.25608012" />
+      <window_info id="Structure" order="1" sideWeight="0.503876" side_tool="true" weight="0.25608012" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -791,7 +800,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.22289157" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.22289157" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Tool Output" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50143063" side_tool="true" weight="0.3180723" />
@@ -819,7 +828,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="leetCode most frequent Array problems" />
     <MESSAGE value="two leetCode most frequent LinkedList problems" />
     <MESSAGE value="four leetCode most frequent LinkedList problems" />
     <MESSAGE value="three LinkedList problems" />
@@ -844,7 +852,8 @@
     <MESSAGE value="the classic problem game of life" />
     <MESSAGE value="two microsoft medium problems" />
     <MESSAGE value="rotate array" />
-    <option name="LAST_COMMIT_MESSAGE" value="rotate array" />
+    <MESSAGE value="three microsoft easy problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="three microsoft easy problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1006,30 +1015,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Solution48.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Solution763.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Solution347.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/amazon/ReOrderLogFiles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1358,10 +1343,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution1013.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution557.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1372,10 +1357,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution557.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution1013.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="216">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1957">
+          <caret line="383" column="22" lean-forward="true" selection-start-line="383" selection-start-column="22" selection-end-line="383" selection-end-column="22" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#24331#24332#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#767#775#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution252.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
