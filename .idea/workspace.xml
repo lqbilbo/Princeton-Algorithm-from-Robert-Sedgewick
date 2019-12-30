@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution252.java" afterDir="false" />
+    <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="two microsoft problems">
+      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution1185.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution529.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution560.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,14 +57,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution252.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="270">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution1185.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution529.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution560.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -97,36 +125,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution289.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution253.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="24" column="43" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution1007.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -172,9 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/linkedin/Solution364.java" />
-        <option value="$PROJECT_DIR$/src/main/java/linkedin/Solution244.java" />
-        <option value="$PROJECT_DIR$/src/main/java/linkedin/Solution716.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedin/Solution235.java" />
         <option value="$PROJECT_DIR$/src/main/java/learn/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedin/Solution380.java" />
@@ -223,12 +218,16 @@
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution557.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution17.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution252.java" />
+        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution1185.java" />
+        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution529.java" />
+        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution560.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -324,7 +323,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RotateArray">
+  <component name="RunManager" selected="Application.Solution560">
     <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learn.RotateArray" />
       <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
@@ -338,25 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Solution11" />
+    <configuration name="Solution1185" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="microsoft.Solution1185" />
       <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="amazon.Solution48" />
-      <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="amazon.*" />
+          <option name="PATTERN" value="microsoft.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,12 +363,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution763" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="amazon.Solution763" />
+    <configuration name="Solution529" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="microsoft.Solution529" />
       <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="amazon.*" />
+          <option name="PATTERN" value="microsoft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution560" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="microsoft.Solution560" />
+      <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="microsoft.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,11 +391,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution560" />
+        <item itemvalue="Application.Solution529" />
+        <item itemvalue="Application.Solution1185" />
         <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.Solution498" />
-        <item itemvalue="Application.Solution11" />
-        <item itemvalue="Application.Solution763" />
-        <item itemvalue="Application.Solution48" />
       </list>
     </recent_temporary>
   </component>
@@ -433,14 +432,7 @@
       <workItem from="1576133649953" duration="8697000" />
       <workItem from="1576509879267" duration="176000" />
       <workItem from="1576552703567" duration="28107000" />
-      <workItem from="1577416582499" duration="2185000" />
-    </task>
-    <task id="LOCAL-00003" summary="lesson 2,application">
-      <created>1572183972703</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1572183972703</updated>
+      <workItem from="1577416582499" duration="5486000" />
     </task>
     <task id="LOCAL-00004" summary="lesson 3, algorithm analysis">
       <created>1572368552637</created>
@@ -778,17 +770,24 @@
       <option name="project" value="LOCAL" />
       <updated>1577458091055</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="two microsoft problems">
+      <created>1577545237722</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1577545237722</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247318000" />
+    <option name="totallyTimeSpent" value="250619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.25608012" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.25608012" />
       <window_info id="Structure" order="1" sideWeight="0.503876" side_tool="true" weight="0.25608012" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -796,7 +795,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.21084337" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28674698" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.28674698" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -828,7 +827,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="two leetCode most frequent LinkedList problems" />
     <MESSAGE value="four leetCode most frequent LinkedList problems" />
     <MESSAGE value="three LinkedList problems" />
     <MESSAGE value="LeetCode Stack problems" />
@@ -853,7 +851,8 @@
     <MESSAGE value="two microsoft medium problems" />
     <MESSAGE value="rotate array" />
     <MESSAGE value="three microsoft easy problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="three microsoft easy problems" />
+    <MESSAGE value="two microsoft problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="two microsoft problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1002,6 +1001,24 @@
           <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/microsoft/Solution529.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/microsoft/Solution529.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/microsoft/Solution529.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1015,27 +1032,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/amazon/ReOrderLogFiles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/amazon/KClosestPointsToOrigin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Atoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/amazon/MostCommonWord.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1390,11 +1386,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution252.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution1185.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution529.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution560.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>
