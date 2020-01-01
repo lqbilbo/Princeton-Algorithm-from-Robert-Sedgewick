@@ -51,3 +51,5 @@
 | 155 | Min Stack | [Java](./src/main/java/leetcode/Solution155.java) | Deque | Stack
 | 272 | Closest Binary Search Tree Value II | [Java](./src/main/java/linkedin/Solution272.java) | deque, inOrder | Stack, BST
 | 1001 | Maximize Sum Of Array After K Negations | [Java](./src/main/java/linkedin/Solution1001.java) | Priority Queue | Queue
+| 33 | Search in Rotated Sorted Array | [Java](./src/main/java/linkedin/Solution33.java) | binary search | Array | [Search in Rotated Sorted Array](https://leetcode.com/articles/search-in-rotated-sorted-array)
+| 49 | Group Anagrams | [Java](./src/main/java/linkedin/Solution49.java) | Categorize by Sorted String, Categorize by count | Array | [group anagrams](https://leetcode.com/articles/group-anagrams/)

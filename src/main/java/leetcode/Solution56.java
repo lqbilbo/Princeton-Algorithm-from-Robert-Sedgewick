@@ -48,4 +48,41 @@ public class Solution56 {
         return merged;
     }
 
+    /* class Solution {
+    class Interval {
+        int start;
+        int end;
+        public Interval(int start, int end) {
+            this.start = start;
+            this.end = end;
+        }
+    }
+    public int[][] merge(int[][] intervals) {
+        if (intervals.length == 0) return new int[0][0];
+        int row = intervals.length;
+        int col = 2;
+        List<Interval> intervalArr = new ArrayList<>();
+        int count = 0;
+        for (int[] r : intervals) {
+            intervalArr.add(new Interval(r[0], r[1]));
+        }
+        Collections.sort(intervalArr, (o1, o2) -> o1.start - o2.start);
+        int start = intervalArr.get(0).start, end = intervalArr.get(0).end;
+        int[][] ans = new int[row][col];
+        for (int i = 1; i < row; i++) {
+            if (intervalArr.get(i).start > end) {
+                ans[count][0] = intervalArr.get(i).start;
+                ans[count][1] = intervalArr.get(i).end;
+            } else {
+                ans[count][0] = Math.min(start, intervals[i][0]);
+                ans[count][1] = Math.max(end, intervals[i][1]);
+            }
+            start = ans[count][0];
+            end = ans[count][1];
+            count++;
+        }
+        return ans;
+    }
+}*/
+
 }
