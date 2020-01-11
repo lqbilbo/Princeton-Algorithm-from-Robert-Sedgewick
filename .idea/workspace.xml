@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/airbnb/Solution269.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/airbnb/Solution280.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/airbnb/Solution759.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airbnb/Solution125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airbnb/Solution156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airbnb/Solution609.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airbnb/Solution773.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airbnb/Solution875.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/airbnb/Solution755.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/airbnb/Solution755.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/airbnb/Solution787.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/airbnb/Solution787.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -39,28 +41,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/WiggleSort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution759.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="220">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/CoinChange.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution787.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            <state relative-caret-position="338">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution755.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution609.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+            <state relative-caret-position="252">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution156.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution125.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="488" column="45" lean-forward="true" selection-start-line="488" selection-start-column="45" selection-end-line="488" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -68,78 +100,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution269.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="67" column="22" lean-forward="true" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-              <folding>
-                <element signature="e#226#253#0" expanded="true" />
-                <element signature="e#307#327#0" expanded="true" />
-                <element signature="e#918#929#0" expanded="true" />
-                <element signature="e#1306#1317#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="164">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution251.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution875.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="450">
+              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution280.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution773.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution759.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="135">
+              <caret line="71" column="19" lean-forward="true" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/EmployeeFreeTime.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution755.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="79" column="53" selection-start-line="79" selection-start-column="53" selection-end-line="79" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/TextJustification.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="90" column="35" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2490#2498#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/AlienDictionary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="108" column="35" selection-start-line="108" selection-start-column="35" selection-end-line="108" selection-end-column="35" />
+            <state relative-caret-position="496">
+              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -172,6 +161,10 @@
       <find>Comparator</find>
       <find>So</find>
       <find>heights</find>
+      <find>Comparator.ComparingInt</find>
+      <find>new Comparato</find>
+      <find>alienOrder</find>
+      <find>isDigit</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -191,12 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/learn/RotateArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution1013.java" />
-        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution557.java" />
-        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution17.java" />
-        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution252.java" />
-        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution1185.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution529.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution560.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution724.java" />
@@ -223,8 +210,6 @@
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution128.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/LongestConsecutiveSequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/PalindromePairs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution787.java" />
-        <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution336.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/FractionToRecurringDecimal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/KokoEatingBananas.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/AlienDictionary.java" />
@@ -242,14 +227,20 @@
         <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution269.java" />
         <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution251.java" />
         <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution280.java" />
+        <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution759.java" />
+        <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution336.java" />
+        <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution875.java" />
+        <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution773.java" />
+        <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution787.java" />
+        <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution609.java" />
+        <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution156.java" />
+        <option value="$PROJECT_DIR$/src/main/java/airbnb/Solution125.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="37" />
-    <option name="y" value="23" />
-    <option name="width" value="1403" />
-    <option name="height" value="877" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -391,26 +382,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution269">
-    <configuration name="FindFirstAndLastPositionOfElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.en.FindFirstAndLastPositionOfElementInSortedArray" />
+  <component name="RunManager" selected="Application.Solution125">
+    <configuration name="Solution125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="airbnb.Solution125" />
       <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.editor.en.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="microsoft.Solution153" />
-      <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="microsoft.*" />
+          <option name="PATTERN" value="airbnb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -431,8 +409,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution755$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="airbnb.Solution755$Solution" />
+    <configuration name="Solution759" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="airbnb.Solution759" />
+      <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="airbnb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution773" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="airbnb.Solution773" />
       <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
       <extension name="coverage">
         <pattern>
@@ -459,11 +450,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution269" />
-        <item itemvalue="Application.Solution755$Solution" />
+        <item itemvalue="Application.Solution125" />
         <item itemvalue="Application.Solution787" />
-        <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray" />
-        <item itemvalue="Application.Solution153" />
+        <item itemvalue="Application.Solution773" />
+        <item itemvalue="Application.Solution759" />
+        <item itemvalue="Application.Solution269" />
       </list>
     </recent_temporary>
   </component>
@@ -502,21 +493,7 @@
       <workItem from="1576552703567" duration="28107000" />
       <workItem from="1577416582499" duration="21243000" />
       <workItem from="1578052267140" duration="255000" />
-      <workItem from="1578052761394" duration="24467000" />
-    </task>
-    <task id="LOCAL-00013" summary="leetcode amazon middle frequency problems">
-      <created>1573660253369</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1573660253369</updated>
-    </task>
-    <task id="LOCAL-00014" summary="leetcode learn binary tree">
-      <created>1573787030007</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1573787030008</updated>
+      <workItem from="1578052761394" duration="42921000" />
     </task>
     <task id="LOCAL-00015" summary="leetcode amazon interview">
       <created>1573832733516</created>
@@ -847,29 +824,43 @@
       <option name="project" value="LOCAL" />
       <updated>1578496811498</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="three high frequent Airbnb problems in near 6 months">
+      <created>1578585054114</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1578585054117</updated>
+    </task>
+    <task id="LOCAL-00063" summary="two hard Airbnb problems in near 6 months">
+      <created>1578669784128</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1578669784129</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291098000" />
+    <option name="totallyTimeSpent" value="309552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.18669528" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.18669528" />
       <window_info id="Structure" order="1" sideWeight="0.503876" side_tool="true" weight="0.25608012" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.19879518" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4433121" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.19879518" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26626506" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.2356688" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.23493975" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Tool Output" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -881,7 +872,7 @@
       <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.50143063" side_tool="true" weight="0.3180723" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Codota" order="5" weight="0.32904148" />
@@ -898,8 +889,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="two hard linkedIn problem" />
-    <MESSAGE value="two simple problem" />
     <MESSAGE value="two amazon medium problems" />
     <MESSAGE value="总结leetcode array题目" />
     <MESSAGE value="summary leetcode array 122th problem" />
@@ -923,7 +912,9 @@
     <MESSAGE value="a hard Microsoft problems" />
     <MESSAGE value="four hard Airbnb problems" />
     <MESSAGE value="complete all Airbnb problems in near 6 months" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete all Airbnb problems in near 6 months" />
+    <MESSAGE value="three high frequent Airbnb problems in near 6 months" />
+    <MESSAGE value="two hard Airbnb problems in near 6 months" />
+    <option name="LAST_COMMIT_MESSAGE" value="two hard Airbnb problems in near 6 months" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1092,7 +1083,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/airbnb/Solution787.java</url>
-          <line>7</line>
+          <line>24</line>
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
@@ -1120,6 +1111,42 @@
           <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airbnb/Solution759.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airbnb/Solution773.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airbnb/Solution773.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airbnb/Solution773.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airbnb/Solution787.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airbnb/Solution125.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1133,62 +1160,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///var/folders/_d/y_wp09_x77g_g_bmsxxq7lyh0000gn/T/leetcode/editor/en/[25]Reverse Nodes in k-Group.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/_d/y_wp09_x77g_g_bmsxxq7lyh0000gn/T/leetcode/editor/en/[1]Two Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/_d/y_wp09_x77g_g_bmsxxq7lyh0000gn/T/leetcode/editor/en/[1]Two Sum277594208.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///var/folders/_d/y_wp09_x77g_g_bmsxxq7lyh0000gn/T/leetcode/editor/en/[1]Two Sum.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/_d/y_wp09_x77g_g_bmsxxq7lyh0000gn/T/leetcode/editor/en/[128]Longest Consecutive Sequence.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/leetcode/editor/en/[128]Longest Consecutive Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/en/[33]Search in Rotated Sorted Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#830#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchInRotatedSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-          <folding>
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/en/[34]FindFirstAndLastPositionOfElementInSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -1363,20 +1334,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution787.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution336.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/FractionToRecurringDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -1476,16 +1433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/EmployeeFreeTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="79" column="53" selection-start-line="79" selection-start-column="53" selection-end-line="79" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/TextJustification.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1511,23 +1458,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution755.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/EmployeeFreeTime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        <state relative-caret-position="170">
+          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution269.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="67" column="22" lean-forward="true" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-          <folding>
-            <element signature="e#226#253#0" expanded="true" />
-            <element signature="e#307#327#0" expanded="true" />
-            <element signature="e#918#929#0" expanded="true" />
-            <element signature="e#1306#1317#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="177">
+          <caret line="586" column="13" selection-start-line="586" selection-start-column="13" selection-end-line="586" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="4676" column="25" lean-forward="true" selection-start-line="4676" selection-start-column="25" selection-end-line="4676" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1548,10 +1499,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution336.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution755.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution759.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="220">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution269.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution773.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="71" column="19" lean-forward="true" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution875.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="488" column="45" lean-forward="true" selection-start-line="488" selection-start-column="45" selection-end-line="488" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution787.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution609.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution156.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/airbnb/Solution125.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
