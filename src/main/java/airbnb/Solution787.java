@@ -4,6 +4,23 @@ import java.util.*;
 
 public class Solution787 {
 
+    /**
+     * 直觉和算法
+     *
+     * Dijkstra's 算法的思想是，按照cost从小到大的顺序扩展所有的飞行路线。当城市被添加到dst时，dst中对应的值即是到达该城市的最小花费。
+     *
+     * 在 Dijkstra 算法中，借助优先级队列持续搜索花费最低的下一个城市。
+     *
+     * 如果查找到某个城市，它原本的路线成本更低或者中转次数过多，则无需再搜索它。否则，如果搜索到目的城市，那么当前花费就是最低成本，因为每次最先搜索的就是最低成本航线。
+     *
+     * 否则，如果从 node 城市出发的航线花费更低，则将该节点加入到优先级队列用于搜索
+     * @param n
+     * @param flights
+     * @param src
+     * @      param dst
+     * @param K
+     * @return
+     */
     public static int findCheapestPrice(int n, int[][] flights, int src, int dst, int K) {
         int[][] graph = new int[n][n];
         for (int[] flight : flights) {
