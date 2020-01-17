@@ -27,6 +27,23 @@ public class Solution591 {
     public boolean isValidCdata(String s) {
         return s.indexOf("[CDATA[") == 0;
     }
+
+    /**
+     * 直觉和算法
+     *
+     * 题目的重点在于将所有异常的case分类和规则搞清楚
+     * case1.必须有关闭的tag，否则无效
+     * case2.tag名字必须都是大写，且长度小于10个字符
+     * case3.有效的内容必须包含CDATA标签及其他字符，否则无效
+     * case4.需要校验tag的对称性
+     * case5.CDATA中的标签不需要校验有效性
+     *
+     * 时间复杂度：O(n)
+     * 空间复杂度：O(n)
+     *
+     * @param code
+     * @return
+     */
     public boolean isValid(String code) {
         if (code.charAt(0) != '<' || code.charAt(code.length() - 1) != '>')
             return false;
