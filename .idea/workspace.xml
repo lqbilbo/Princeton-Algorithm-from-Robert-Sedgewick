@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/TheSkylineProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution218.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution431.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution836.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution909.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution510.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution556.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,24 +36,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution591.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution273.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1386">
-              <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution909.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/TheSkylineProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="247">
+              <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2818#2833#0" expanded="true" />
@@ -120,13 +99,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="702">
-                <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution450.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution510.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution556.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -186,6 +180,7 @@
       <find>alienOrder</find>
       <find>isDigit</find>
       <find>PriorityQueue</find>
+      <find>BST</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -205,8 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchInRotatedSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/[34]FindFirstAndLastPositionOfElementInSortedArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindFirstAndLastPositionOfElementInSortedArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/JumpGame.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution55.java" />
@@ -256,6 +249,8 @@
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution836.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution218.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/TheSkylineProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution510.java" />
+        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution556.java" />
       </list>
     </option>
   </component>
@@ -296,22 +291,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="en" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
@@ -492,14 +471,7 @@
       <workItem from="1578052267140" duration="255000" />
       <workItem from="1578052761394" duration="49268000" />
       <workItem from="1578877091025" duration="4554000" />
-      <workItem from="1579314102927" duration="9331000" />
-    </task>
-    <task id="LOCAL-00020" summary="amazon atoi">
-      <created>1574438310148</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1574438310148</updated>
+      <workItem from="1579314102927" duration="10747000" />
     </task>
     <task id="LOCAL-00021" summary="Best Time to Buy and Sell Stock with Cooldown">
       <created>1574726134336</created>
@@ -837,11 +809,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579275246912</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="four problems of microsoft">
+      <created>1579358750311</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1579358750312</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="329784000" />
+    <option name="totallyTimeSpent" value="331200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -888,7 +867,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="the summary of two LinkedList problem" />
     <MESSAGE value="the summary of two queue problems" />
     <MESSAGE value="a medium DP problem Partition Equal Subset Sum" />
     <MESSAGE value="add lib package and code" />
@@ -913,7 +891,8 @@
     <MESSAGE value="Tag Validator" />
     <MESSAGE value="add readme of Tag Validator" />
     <MESSAGE value="Integer to English Words" />
-    <option name="LAST_COMMIT_MESSAGE" value="Integer to English Words" />
+    <MESSAGE value="four problems of microsoft" />
+    <option name="LAST_COMMIT_MESSAGE" value="four problems of microsoft" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1207,18 +1186,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution128.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="50" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
-          <folding>
-            <element signature="e#982#991#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/PalindromePairs.md" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/PalindromePairs.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/LongestConsecutiveSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
@@ -1596,13 +1563,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/TheSkylineProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="247">
+          <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2818#2833#0" expanded="true" />
             <element signature="e#4107#4122#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution450.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution510.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution556.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
