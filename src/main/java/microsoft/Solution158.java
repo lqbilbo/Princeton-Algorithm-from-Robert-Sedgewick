@@ -5,13 +5,13 @@ package microsoft;
  * The read4 API is defined in the parent class Reader4.
  *     int read4(char[] buf);
  */
-public class Solution158 extends Reader4 {
+/*public class Solution158 extends Reader4 {
 
-    /**
+    *//**
      * @param buf Destination buffer
      * @param n   Number of characters to read
      * @return    The number of actual characters read
-     */
+     *//*
     private int buffPtr = 0;
     private int buffCnt = 0;
     private char[] buff = new char[4];
@@ -31,4 +31,4 @@ public class Solution158 extends Reader4 {
         }
         return ptr;
     }
-}
+}*/
