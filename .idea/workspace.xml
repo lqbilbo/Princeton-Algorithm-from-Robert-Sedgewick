@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution1058.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution1257.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution314.java" afterDir="false" />
+    <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="four Microsoft problems">
+      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution829.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/microsoft/Solution158.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/microsoft/Solution158.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -38,20 +35,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution642.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution116.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -137,11 +120,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution1058.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="293">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution829.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+              <folding>
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -208,7 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/airbnb/RoundingInPriceBreakdown.java" />
         <option value="$PROJECT_DIR$/LeetCode.md" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution273.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution591.java" />
@@ -259,6 +254,7 @@
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution314.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution1257.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution1058.java" />
+        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution829.java" />
       </list>
     </option>
   </component>
@@ -364,7 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution218">
+  <component name="RunManager" selected="Application.Solution829">
     <configuration name="RoundingInPriceBreakdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="airbnb.RoundingInPriceBreakdown" />
       <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
@@ -404,8 +400,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution680" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Solution680" />
+    <configuration name="Solution829" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="microsoft.Solution829" />
       <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
       <extension name="coverage">
         <pattern>
@@ -432,11 +428,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution829" />
         <item itemvalue="Application.Solution218" />
         <item itemvalue="Application.Solution836" />
         <item itemvalue="Application.RoundingInPriceBreakdown" />
         <item itemvalue="Application.Solution1216" />
-        <item itemvalue="Application.Solution680" />
       </list>
     </recent_temporary>
   </component>
@@ -477,14 +473,7 @@
       <workItem from="1578052267140" duration="255000" />
       <workItem from="1578052761394" duration="49268000" />
       <workItem from="1578877091025" duration="4554000" />
-      <workItem from="1579314102927" duration="29356000" />
-    </task>
-    <task id="LOCAL-00030" summary="two linkedIn problems">
-      <created>1575423707295</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1575423707296</updated>
+      <workItem from="1579314102927" duration="29904000" />
     </task>
     <task id="LOCAL-00031" summary="two easy linkedIn problems">
       <created>1575509678263</created>
@@ -822,17 +811,24 @@
       <option name="project" value="LOCAL" />
       <updated>1580226771939</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="four Microsoft problems">
+      <created>1580361625415</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1580361625415</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="349809000" />
+    <option name="totallyTimeSpent" value="350357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.21387696" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.21387696" />
       <window_info id="Structure" order="1" sideWeight="0.503876" side_tool="true" weight="0.25608012" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -844,7 +840,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.15662651" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.44819278" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Tool Output" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -873,7 +869,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="rotate array" />
     <MESSAGE value="three microsoft easy problems" />
     <MESSAGE value="three microsoft problems" />
     <MESSAGE value="two microsoft problems" />
@@ -898,7 +893,8 @@
     <MESSAGE value="three Microsoft  problems" />
     <MESSAGE value="six Microsoft  problems" />
     <MESSAGE value=" Microsoft hard problems" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Microsoft hard problems" />
+    <MESSAGE value="four Microsoft problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="four Microsoft problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1179,6 +1175,12 @@
           <properties />
           <option name="timeStamp" value="88" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/microsoft/Solution829.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1192,16 +1194,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="702">
-            <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/io/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -1646,8 +1638,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution1058.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="293">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution829.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
