@@ -1,4 +1,4 @@
-package topic.design;
+package topic.design.microsoft;
 
 public class ImplementTrie {
 
