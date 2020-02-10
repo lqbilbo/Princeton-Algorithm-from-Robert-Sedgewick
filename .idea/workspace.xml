@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="three liked problems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/Solution212.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/Solution70.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/common/ListUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/facebook/Solution211.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,15 +36,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/BestTimeToBuyAndSellStock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/LongestIncreasingSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,16 +108,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Solution212.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="67">
+              <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#148#169#0" expanded="true" />
                 <element signature="e#316#324#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Solution70.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -199,7 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution54.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution286.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution694.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution139.java" />
@@ -250,6 +248,7 @@
         <option value="$PROJECT_DIR$/src/main/java/topic/linkedlist/AddTwoNumbersII.java" />
         <option value="$PROJECT_DIR$/src/main/java/facebook/Solution211.java" />
         <option value="$PROJECT_DIR$/src/main/java/amazon/Solution212.java" />
+        <option value="$PROJECT_DIR$/src/main/java/amazon/Solution70.java" />
       </list>
     </option>
   </component>
@@ -489,14 +488,7 @@
       <workItem from="1579314102927" duration="30222000" />
       <workItem from="1580563465447" duration="1492000" />
       <workItem from="1580697502354" duration="10015000" />
-      <workItem from="1580947512133" duration="4672000" />
-    </task>
-    <task id="LOCAL-00040" summary="summary leetcode array 23th and 88th problem">
-      <created>1576425099940</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1576425099940</updated>
+      <workItem from="1580947512133" duration="6229000" />
     </task>
     <task id="LOCAL-00041" summary="the summary of two LinkedList problem">
       <created>1576563737435</created>
@@ -834,11 +826,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581172408671</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="two liked problems">
+      <created>1581251301533</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1581251301533</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="366854000" />
+    <option name="totallyTimeSpent" value="368411000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -865,7 +864,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.44819278" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.44819278" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Tool Output" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -914,12 +913,12 @@
     <MESSAGE value="a Microsoft Math problem" />
     <MESSAGE value="two hard fb problems" />
     <MESSAGE value="three liked problems" />
-    <MESSAGE value="two liked problems" />
     <MESSAGE value="microsoft design problem: serialize and deserialize" />
     <MESSAGE value="Microsoft design problems" />
     <MESSAGE value="Microsoft dp problems" />
     <MESSAGE value="four Microsoft linkedList problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="four Microsoft linkedList problems" />
+    <MESSAGE value="two liked problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="two liked problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1219,13 +1218,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution56.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution56.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1657,13 +1649,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Solution212.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="67">
+          <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#148#169#0" expanded="true" />
             <element signature="e#316#324#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Solution70.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
         </state>
       </provider>
     </entry>
