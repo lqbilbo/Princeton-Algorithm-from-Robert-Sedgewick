@@ -32,6 +32,20 @@ public class Solution11 {
         return maxarea;
     }
 
+    /**
+     * 方法1思路相同更好的写法
+     */
+    class Solution {
+        public int maxArea(int[] height) {
+            int max = 0;
+            for (int i = 0, j = height.length - 1; i < j; ) {
+                int minHeight = height[i] < height[j] ? height[i++] : height[j--];
+                max = Math.max(max, (j - i + 1) * minHeight);
+            }
+            return max;
+        }
+    }
+
     public static int arrayPairSum(int[] nums) {
         int ans = 0;
         Arrays.sort(nums);
