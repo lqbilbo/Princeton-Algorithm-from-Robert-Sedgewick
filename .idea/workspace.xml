@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="three liked problems">
       <change afterPath="$PROJECT_DIR$/src/main/java/common/ListUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Solution15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Solution11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/amazon/Solution70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/amazon/Solution70.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -36,15 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/topic/linkedlist/ReverseLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/topic/linkedlist/LinkedListCycle.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +97,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Solution70.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="306">
+              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,12 +136,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="254">
-                <caret line="30" column="5" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="5" />
+              <first_editor relative-caret-position="162">
+                <caret line="9" column="87" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
               </first_editor>
               <second_editor />
             </state>
@@ -202,8 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution139.java" />
-        <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution323.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution56.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution277.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/Solution186.java" />
@@ -250,9 +253,11 @@
         <option value="$PROJECT_DIR$/src/main/java/topic/linkedlist/AddTwoNumbersII.java" />
         <option value="$PROJECT_DIR$/src/main/java/facebook/Solution211.java" />
         <option value="$PROJECT_DIR$/src/main/java/amazon/Solution212.java" />
-        <option value="$PROJECT_DIR$/src/main/java/amazon/Solution70.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution283.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/amazon/Solution70.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution15.java" />
+        <option value="$PROJECT_DIR$/LeetCode.md" />
       </list>
     </option>
   </component>
@@ -316,15 +321,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="topic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="topic" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
@@ -500,14 +496,7 @@
       <workItem from="1579314102927" duration="30222000" />
       <workItem from="1580563465447" duration="1492000" />
       <workItem from="1580697502354" duration="10015000" />
-      <workItem from="1580947512133" duration="8259000" />
-    </task>
-    <task id="LOCAL-00043" summary="a medium DP problem Partition Equal Subset Sum">
-      <created>1576770752227</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1576770752228</updated>
+      <workItem from="1580947512133" duration="9089000" />
     </task>
     <task id="LOCAL-00044" summary="add lib package and code">
       <created>1576853258723</created>
@@ -845,11 +834,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581430656144</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="the simple way of max area">
+      <created>1581516824514</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1581516824515</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="370441000" />
+    <option name="totallyTimeSpent" value="371271000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -864,7 +860,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.22246066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.22246066" />
       <window_info id="Structure" order="1" sideWeight="0.503876" side_tool="true" weight="0.25608012" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -905,7 +901,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="three high frequent Airbnb problems in near 6 months" />
     <MESSAGE value="two hard Airbnb problems in near 6 months" />
     <MESSAGE value="Airbnb problems in near 6 months" />
     <MESSAGE value="Tag Validator" />
@@ -930,7 +925,8 @@
     <MESSAGE value="two liked problems" />
     <MESSAGE value="climb stairs problem" />
     <MESSAGE value="move zeros" />
-    <option name="LAST_COMMIT_MESSAGE" value="move zeros" />
+    <MESSAGE value="the simple way of max area" />
+    <option name="LAST_COMMIT_MESSAGE" value="the simple way of max area" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1230,13 +1226,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution340.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution266.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1644,16 +1633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="254">
-            <caret line="30" column="5" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution283.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1670,8 +1649,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Solution70.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="162">
+            <caret line="9" column="87" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
