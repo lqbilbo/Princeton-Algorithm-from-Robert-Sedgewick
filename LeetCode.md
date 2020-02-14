@@ -46,6 +46,7 @@
 | 289 | Game of Life | [Java](./src/main/java/leetcode/Solution289.java) | Array | Array | [Game of Life](https://leetcode.com/articles/game-of-life/)
 | 794 | Valid Tic-Tac-Toe State | [Java](./src/main/java/leetcode/Solution794.java) | Math | Math, Recursion | [Valid Tic-Tac-Toe State](https://leetcode.com/articles/valid-tic-tac-toe-state/)
 | 189 | Rotate Array | [Java](./src/main/java/learn/RotateArray.java) | Using Cyclic Replacements | Array | [Rotate Array](https://leetcode.com/articles/rotate-array/) | [cyclic replacements](./src/main/java/image/cyclic-replacements.png)
+| 142 | linked-list-cycle-ii | [Java](./src/main/java/leetcode/Solution142.java) | Array | Array, Two Pointers
 | --- | ----- | -------- | -------- | --- |
 | 498 | Diagonal Traverse | [Java](./src/main/java/linkedin/Solution498.java) | Matrix | Math
 | 65 | valid number | [Java](./src/main/java/leetcode/Solution65.java) |
