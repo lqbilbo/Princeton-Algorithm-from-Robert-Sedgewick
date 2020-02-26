@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Solution306.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Solution357.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topic/backtrack/PalindromePartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Solution433.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Solution1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -41,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
-              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+              <caret line="83" selection-start-line="83" selection-end-line="83" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution306.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -62,16 +61,16 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution357.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/topic/backtrack/PalindromePartitioning.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            <state relative-caret-position="242">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,11 +78,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution433.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6498">
-              <caret line="395" column="4" selection-start-line="395" selection-start-column="4" selection-end-line="395" selection-end-column="32" />
+            <state relative-caret-position="306">
+              <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -199,7 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/facebook/Solution10.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/design/SerializeAndDeserializeBST.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/design/SerializeAndDeserializeBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/design/LRUCache.java" />
@@ -250,14 +251,15 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution306.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution357.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/backtrack/PalindromePartitioning.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution433.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1441" />
-    <option name="y" value="-191" />
-    <option name="width" value="1440" />
-    <option name="height" value="1091" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="60" />
+    <option name="y" value="203" />
+    <option name="width" value="1363" />
+    <option name="height" value="748" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -516,14 +518,7 @@
       <workItem from="1582158464661" duration="11526000" />
       <workItem from="1582344666199" duration="6632000" />
       <workItem from="1582427412905" duration="6033000" />
-      <workItem from="1582560317934" duration="1352000" />
-    </task>
-    <task id="LOCAL-00055" summary="three Array problems">
-      <created>1577888063888</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1577888063888</updated>
+      <workItem from="1582560317934" duration="2011000" />
     </task>
     <task id="LOCAL-00056" summary="two LinkedList&amp;tree problems">
       <created>1577973661053</created>
@@ -861,11 +856,18 @@
       <option name="project" value="LOCAL" />
       <updated>1582465203552</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="three backtrack problems">
+      <created>1582645063434</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1582645063436</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="421108000" />
+    <option name="totallyTimeSpent" value="421767000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -877,10 +879,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1441" y="-191" width="1440" height="1091" extended-state="0" />
+    <frame x="38" y="23" width="1642" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.43797857" visible="true" weight="0.21101573" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.43797857" visible="true" weight="0.184375" />
       <window_info id="Structure" order="1" sideWeight="0.56202143" side_tool="true" weight="0.20106222" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -892,7 +894,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.16016015" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.171123" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Tool Output" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -912,7 +914,7 @@
       <window_info anchor="right" id="Database" order="7" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="PlantUML" order="9" />
-      <window_info anchor="right" id="leetcode" order="10" side_tool="true" visible="true" weight="0.18884121" />
+      <window_info anchor="right" id="leetcode" order="10" side_tool="true" visible="true" weight="0.165" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6920755" visible="true" weight="0.13304721" />
@@ -977,11 +979,11 @@
     <MESSAGE value="validate Anagram, group Anagram" />
     <MESSAGE value="Binary Tree &amp; N-ary Tree problems" />
     <MESSAGE value="three tree problems" />
-    <MESSAGE value="three backtrack problems" />
     <MESSAGE value="some backtrack problems" />
     <MESSAGE value="three Math&amp;backtrack problems" />
     <MESSAGE value="two backtrack problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="two backtrack problems" />
+    <MESSAGE value="three backtrack problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="three backtrack problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1323,13 +1325,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/topic/linkedlist/LinkedListCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/topic/linkedlist/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
@@ -1735,7 +1730,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1745,21 +1740,31 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution306.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution357.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/topic/backtrack/PalindromePartitioning.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        <state relative-caret-position="242">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution433.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
