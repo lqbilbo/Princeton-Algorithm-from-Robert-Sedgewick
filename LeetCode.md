@@ -56,3 +56,5 @@
 | 33 | Search in Rotated Sorted Array | [Java](./src/main/java/linkedin/Solution33.java) | binary search | Array | [Search in Rotated Sorted Array](https://leetcode.com/articles/search-in-rotated-sorted-array)
 | 49 | Group Anagrams | [Java](./src/main/java/linkedin/Solution49.java) | Categorize by Sorted String, Categorize by count | Array | [group anagrams](https://leetcode.com/articles/group-anagrams/)
 | 591 | Tag Validator | [Java](./src/main/java/linkedin/Solution591.java) | Stack | String | [Tag Validator](https://leetcode.com/articles/tag-validator/)
+| 433 | Min Mutation  | [Java](./src/main/java/leetcode/Solution433.java) | DFS | Queue |
+| 306 | isAdditiveNumber | [Java](./src/main/java/leetcode/Solution306.java) | DFS | Recursion |
