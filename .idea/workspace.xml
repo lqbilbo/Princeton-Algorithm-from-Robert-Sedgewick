@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchA2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topic/greedy/CoinChangeII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -54,18 +56,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/topic/backtrack/PalindromePartitioning.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution433.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-87">
@@ -77,12 +67,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="371">
-                <caret line="59" column="96" selection-start-line="59" selection-start-column="96" selection-end-line="59" selection-end-column="96" />
+              <first_editor relative-caret-position="323">
+                <caret line="51" column="72" selection-start-line="51" selection-start-column="72" selection-end-line="51" selection-end-column="72" />
               </first_editor>
               <second_editor />
             </state>
@@ -90,10 +80,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution200.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/topic/greedy/CoinChangeII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchInRotatedSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchA2DMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -102,15 +110,6 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution529.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-9" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="67" column="51" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
-            </state>
           </provider>
         </entry>
       </file>
@@ -195,10 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/topic/design/SerializeAndDeserializeBST.java" />
-        <option value="$PROJECT_DIR$/src/main/java/topic/design/SerializeAndDeserializeBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/topic/design/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/main/java/topic/design/ImplementTrie.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/design/microsoft/ImplementTrie.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/BestTimeToBuyAndSellStock.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/LongestIncreasingSubsequence.java" />
@@ -246,11 +241,16 @@
         <option value="$PROJECT_DIR$/src/main/java/topic/backtrack/PalindromePartitioning.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution433.java" />
         <option value="$PROJECT_DIR$/LeetCode.md" />
+        <option value="$PROJECT_DIR$/src/main/java/topic/binarysearch/CoinChangeII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topic/greedy/CoinChangeII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchInRotatedSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchA2DMatrix.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="239" />
+    <option name="y" value="285" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -291,14 +291,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="topic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -309,6 +301,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="topic" type="462c0819:PsiDirectoryNode" />
               <item name="backtrack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="topic" type="462c0819:PsiDirectoryNode" />
+              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
@@ -387,7 +388,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GroupAnagrams">
+  <component name="RunManager" selected="Application.CoinChangeII">
+    <configuration name="CoinChangeII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.greedy.CoinChangeII" />
+      <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.songying.leetcode.editor.en.GroupAnagrams" />
       <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
@@ -440,26 +454,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution829" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="microsoft.Solution829" />
-      <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="microsoft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoinChangeII" />
         <item itemvalue="Application.GroupAnagrams" />
         <item itemvalue="Application.PermutationSequence" />
         <item itemvalue="Application.Solution39" />
         <item itemvalue="Application.ListUtils" />
-        <item itemvalue="Application.Solution829" />
       </list>
     </recent_temporary>
   </component>
@@ -512,14 +513,7 @@
       <workItem from="1582344666199" duration="6632000" />
       <workItem from="1582427412905" duration="6033000" />
       <workItem from="1582560317934" duration="2694000" />
-      <workItem from="1582801025066" duration="409000" />
-    </task>
-    <task id="LOCAL-00057" summary="two Microsoft problems">
-      <created>1578063718143</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1578063718145</updated>
+      <workItem from="1582801025066" duration="3037000" />
     </task>
     <task id="LOCAL-00058" summary="two medium Microsoft problems">
       <created>1578148221438</created>
@@ -857,11 +851,18 @@
       <option name="project" value="LOCAL" />
       <updated>1582724142747</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="add LeetCode.md description">
+      <created>1582817326680</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1582817326681</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="422859000" />
+    <option name="totallyTimeSpent" value="425487000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -873,7 +874,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="239" y="285" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.43797857" visible="true" weight="0.24105866" />
@@ -884,7 +885,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.19879518" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3566879" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3566879" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
@@ -894,7 +895,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
       <window_info anchor="bottom" id="JProfiler" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49928468" visible="true" weight="0.32611465" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49928468" weight="0.32611465" />
       <window_info anchor="bottom" id="ANTLR Preview" order="14" weight="0.3299363" />
       <window_info anchor="bottom" id="REST Client" order="15" />
       <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.50143063" side_tool="true" weight="0.3180723" />
@@ -962,7 +963,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value=" Microsoft hard problems" />
     <MESSAGE value="four Microsoft problems" />
     <MESSAGE value="a Microsoft Math problem" />
     <MESSAGE value="two hard fb problems" />
@@ -987,7 +987,8 @@
     <MESSAGE value="two backtrack problems" />
     <MESSAGE value="three backtrack problems" />
     <MESSAGE value="two DFS problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="two DFS problems" />
+    <MESSAGE value="add LeetCode.md description" />
+    <option name="LAST_COMMIT_MESSAGE" value="add LeetCode.md description" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1316,6 +1317,12 @@
           <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topic/greedy/CoinChangeII.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1329,34 +1336,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/facebook/Solution211.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Solution212.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/amazon/Solution70.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution15.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1761,10 +1740,31 @@
     <entry file="file://$PROJECT_DIR$/LeetCode.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="371">
-            <caret line="59" column="96" selection-start-line="59" selection-start-column="96" selection-end-line="59" selection-end-column="96" />
+          <first_editor relative-caret-position="323">
+            <caret line="51" column="72" selection-start-line="51" selection-start-column="72" selection-end-line="51" selection-end-column="72" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/topic/greedy/CoinChangeII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchInRotatedSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchA2DMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
