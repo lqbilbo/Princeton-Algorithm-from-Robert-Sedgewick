@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchA2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchInRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topic/greedy/CoinChangeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topic/backtrack/WordLadderII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topic/greedy/JumpGameII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topic/greedy/WalkingRobotSimulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,40 +97,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchA2DMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="162">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/Solution529.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/topic/greedy/JumpGameII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5670">
-              <caret line="341" column="18" selection-start-line="341" selection-start-column="18" selection-end-line="341" selection-end-column="18" />
+            <state relative-caret-position="216">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/topic/greedy/WalkingRobotSimulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41742">
-              <caret line="2546" column="38" selection-start-line="2546" selection-start-column="38" selection-end-line="2546" selection-end-column="38" />
+            <state relative-caret-position="252">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
-                <element signature="e#101602#101603#0" expanded="true" />
-                <element signature="e#101649#101650#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/topic/backtrack/WordLadderII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -194,9 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/topic/design/microsoft/ImplementTrie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/BestTimeToBuyAndSellStock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/LongestIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/MaximumSubarray.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/linkedlist/LinkedListCycle.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/linkedlist/AddTwoNumbers.java" />
@@ -245,14 +243,15 @@
         <option value="$PROJECT_DIR$/src/main/java/topic/greedy/CoinChangeII.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchInRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchA2DMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topic/greedy/JumpGameII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topic/greedy/WalkingRobotSimulation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topic/backtrack/WordLadderII.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="239" />
-    <option name="y" value="285" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -318,6 +317,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="topic" type="462c0819:PsiDirectoryNode" />
+              <item name="greedy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="topic" type="462c0819:PsiDirectoryNode" />
               <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -359,21 +367,22 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/algs4/lesson7" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leetcode" />
-      <recent name="amazon" />
-      <recent name="common" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/image" />
       <recent name="$PROJECT_DIR$/src/main/java/algs4/lesson6" />
       <recent name="$PROJECT_DIR$/src/main/java/algs4/common" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="topic.greedy" />
+      <recent name="leetcode" />
+      <recent name="amazon" />
+      <recent name="common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/algs4/lesson7" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -513,14 +522,7 @@
       <workItem from="1582344666199" duration="6632000" />
       <workItem from="1582427412905" duration="6033000" />
       <workItem from="1582560317934" duration="2694000" />
-      <workItem from="1582801025066" duration="3037000" />
-    </task>
-    <task id="LOCAL-00058" summary="two medium Microsoft problems">
-      <created>1578148221438</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1578148221438</updated>
+      <workItem from="1582801025066" duration="3560000" />
     </task>
     <task id="LOCAL-00059" summary="a hard Microsoft problems">
       <created>1578232585774</created>
@@ -858,11 +860,18 @@
       <option name="project" value="LOCAL" />
       <updated>1582817326681</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="two binarySearch &amp; one greedy problems">
+      <created>1582902665341</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1582902665342</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="425487000" />
+    <option name="totallyTimeSpent" value="426010000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -874,7 +883,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="239" y="285" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.43797857" visible="true" weight="0.24105866" />
@@ -885,11 +894,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.19879518" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3566879" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34653464" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.20382166" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.2089172" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Tool Output" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -963,7 +972,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="four Microsoft problems" />
     <MESSAGE value="a Microsoft Math problem" />
     <MESSAGE value="two hard fb problems" />
     <MESSAGE value="three liked problems" />
@@ -988,7 +996,8 @@
     <MESSAGE value="three backtrack problems" />
     <MESSAGE value="two DFS problems" />
     <MESSAGE value="add LeetCode.md description" />
-    <option name="LAST_COMMIT_MESSAGE" value="add LeetCode.md description" />
+    <MESSAGE value="two binarySearch &amp; one greedy problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="two binarySearch &amp; one greedy problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1336,30 +1345,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution142.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/topic/linkedlist/ReverseLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1763,8 +1748,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/topic/binarysearch/SearchA2DMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="162">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/topic/greedy/JumpGameII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/topic/greedy/WalkingRobotSimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/topic/backtrack/WordLadderII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
