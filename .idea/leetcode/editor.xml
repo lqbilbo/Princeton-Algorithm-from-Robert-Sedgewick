@@ -35,6 +35,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/MoveZeroes.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/MoveZeroes.java" />
+              <option name="questionId" value="283" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/PlusOne.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/PlusOne.java" />
+              <option name="questionId" value="66" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/RemoveDuplicatesFromSortedArray.java">
           <value>
             <LeetcodeEditor>
@@ -48,6 +64,22 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/RotateArray.java" />
               <option name="questionId" value="189" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/TrappingRainWater.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/TrappingRainWater.java" />
+              <option name="questionId" value="42" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/TwoSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/TwoSum.java" />
+              <option name="questionId" value="1" />
             </LeetcodeEditor>
           </value>
         </entry>
