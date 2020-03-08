@@ -1,14 +1,10 @@
-# Chapter 1st
-
-- merge sorted arrays
-
-- merge two sorted lists
-
-- remove duplicate from sorted array
-
-- rotate array
-
-- move zeroes
+| # | Title | Difficult Degree | Topic |
+|---| ----- | -------- | -------- |
+| Chapter 1st | merge sorted arrays | Easy | Array, Two Pointers
+| Chapter 1st | merge two sorted lists | Easy | LinkedList
+| Chapter 1st | remove duplicate from sorted array | Easy | Array, Two Pointers
+| Chapter 1st | rotate array | Easy | Array
+| Chapter 1st | move zeroes | Easy | Array, Two Pointers
 
 - plus one
 
