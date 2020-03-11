@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58e6766-8368-4279-b167-b06ca9535ab0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/MaximalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/MinimumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/PalindromicSubstrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geek.md" beforeDir="false" afterPath="$PROJECT_DIR$/Geek.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -36,58 +39,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/SearchInRotatedSortedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        <entry file="file://$PROJECT_DIR$/Geek.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="324">
+                <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/SearchA2dMatrix.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/MinimumPathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="53" column="38" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="38" />
+            <state relative-caret-position="270">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/FindMinimumInRotatedSortedArray.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/DecodeWays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+            <state relative-caret-position="187">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/topic/backtrack/WordLadderII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1584">
-              <caret line="88" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/google/Solution221.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/WordLadderIi.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/MaximalSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1296">
-              <caret line="124" column="34" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
+            <state relative-caret-position="108">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Geek.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="234">
-                <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/PalindromicSubstrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -194,10 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/topic/tree/Combinations.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution39.java" />
-        <option value="$PROJECT_DIR$/src/main/java/topic/backtrack/Permutations.java" />
-        <option value="$PROJECT_DIR$/src/main/java/topic/backtrack/PermutationsII.java" />
         <option value="$PROJECT_DIR$/src/main/java/amazon/Solution1192.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution89.java" />
         <option value="$PROJECT_DIR$/src/main/java/topic/backtrack/CombinationSumII.java" />
@@ -245,6 +240,10 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution45.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/WordLadderIi.java" />
         <option value="$PROJECT_DIR$/Geek.md" />
+        <option value="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/MinimumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/DecodeWays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/MaximalSquare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/PalindromicSubstrings.java" />
       </list>
     </option>
   </component>
@@ -272,6 +271,36 @@
               <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
               <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="topic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="topic" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicprogramming" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Princeton-Algorithm-from-Robert-Sedgewick" type="b2602c69:ProjectViewProjectNode" />
@@ -458,14 +487,7 @@
       <workItem from="1582427412905" duration="6033000" />
       <workItem from="1582560317934" duration="2694000" />
       <workItem from="1582801025066" duration="16455000" />
-      <workItem from="1583748054391" duration="1113000" />
-    </task>
-    <task id="LOCAL-00067" summary="add readme of Tag Validator">
-      <created>1579102660694</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1579102660694</updated>
+      <workItem from="1583748054391" duration="2529000" />
     </task>
     <task id="LOCAL-00068" summary="Integer to English Words">
       <created>1579275246912</created>
@@ -803,11 +825,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583676807408</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="complete put content into table chap1 ~ chap3">
+      <created>1583852463857</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1583852463858</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="440018000" />
+    <option name="totallyTimeSpent" value="441434000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -819,10 +848,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.43797857" visible="true" weight="0.20818071" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.43797857" visible="true" weight="0.24391988" />
       <window_info id="Structure" order="1" sideWeight="0.56202143" side_tool="true" weight="0.20106222" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -834,7 +863,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.16734694" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" visible="true" weight="0.19759037" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Tool Output" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -908,7 +937,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="climb stairs problem" />
     <MESSAGE value="move zeros" />
     <MESSAGE value="the simple way of max area" />
     <MESSAGE value="three sum" />
@@ -933,7 +961,8 @@
     <MESSAGE value="finish the 3rd week homework" />
     <MESSAGE value="summarize geek college's problems" />
     <MESSAGE value="put content into table" />
-    <option name="LAST_COMMIT_MESSAGE" value="put content into table" />
+    <MESSAGE value="complete put content into table chap1 ~ chap3" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete put content into table chap1 ~ chap3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1281,47 +1310,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6498">
-          <caret line="395" column="4" selection-start-line="395" selection-start-column="4" selection-end-line="395" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/topic/backtrack/BraceExpansion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/topic/backtrack/CombinationSumIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/topic/backtrack/PalindromePartitioning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution200.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
@@ -1685,10 +1673,41 @@
     <entry file="file://$PROJECT_DIR$/Geek.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="234">
-            <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+          <first_editor relative-caret-position="324">
+            <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/MinimumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/DecodeWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/google/Solution221.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/MaximalSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/topic/dynamicprogramming/PalindromicSubstrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
