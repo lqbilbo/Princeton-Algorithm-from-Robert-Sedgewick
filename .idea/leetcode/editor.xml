@@ -27,6 +27,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/DecreaseElementsToMakeArrayZigzag.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/DecreaseElementsToMakeArrayZigzag.java" />
+              <option name="questionId" value="1247" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/FindMinimumInRotatedSortedArray.java">
           <value>
             <LeetcodeEditor>
@@ -96,6 +104,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/NAryTreePreorderTraversal.java" />
               <option name="questionId" value="775" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/NumberOf1Bits.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/songying/leetcode/editor/en/NumberOf1Bits.java" />
+              <option name="questionId" value="191" />
             </LeetcodeEditor>
           </value>
         </entry>
