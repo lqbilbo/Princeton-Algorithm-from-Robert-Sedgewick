@@ -9,7 +9,7 @@
         <module name="Princeton-Algorithm-from-Robert-Sedgewick" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="Princeton-Algorithm-from-Robert-Sedgewick" target="8" />
     </bytecodeTargetLevel>
   </component>
