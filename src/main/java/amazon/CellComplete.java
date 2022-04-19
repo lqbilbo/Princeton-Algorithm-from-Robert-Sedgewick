@@ -3,6 +3,7 @@ package amazon;
 // IMPORT LIBRARY PACKAGES NEEDED BY YOUR PROGRAM
 import java.util.List;
 import java.util.ArrayList;
+import java.util.Objects;
 // SOME CLASSES WITHIN A PACKAGE MAY BE RESTRICTED
 // DEFINE ANY CLASS AND METHOD NEEDED
 // CLASS BEGINS, THIS CLASS IS REQUIRED
@@ -19,7 +20,7 @@ import java.util.ArrayList;
 public class CellComplete {
 
     // METHOD SIGNATURE BEGINS, THIS METHOD IS REQUIRED
-    public static List<Integer> cellCompete(int[] states, int days)
+    public static List<Integer> cellComplete(int[] states, int days)
     {
         // WRITE YOUR CODE HERE
         List<Integer> ans = new ArrayList<>();
@@ -45,7 +46,7 @@ public class CellComplete {
                         after.add(0);
                     }
                 } else
-                if (before.get(j-1) == before.get(j+1)) {
+                if (Objects.equals(before.get(j - 1), before.get(j + 1))) {
                     after.add(0);
                 } else {
                     after.add(1);
@@ -68,7 +69,7 @@ public class CellComplete {
     public static void main(String[] args) {
         int[] states = new int[]{1,1,1,0,1,1,1,1};
         int days = 2;
-        System.out.println("answer: " + cellCompete(states, days));
+        System.out.println("answer: " + cellComplete(states, days));
     }
 }
 
